@@ -1,0 +1,1 @@
+Validation MSE score: 140.5223144628014. Test MSE score: 139.8090689482074
